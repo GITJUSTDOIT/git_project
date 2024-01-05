@@ -1,3 +1,3 @@
-#git command
+# git command
 
-#markdown file management
+# markdown file management
